@@ -1,0 +1,74 @@
+#frame{
+    width: 1000px;
+    background-color:greenyellow;
+    margin: 0 auto;
+   
+    height: 100%       
+}
+
+.one{
+    width: 950px;
+    height: 50px;
+    background-color:aliceblue;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center
+}
+
+.two{
+    width: 25%;
+    height: auto;
+    background-color: forestgreen;    
+    margin-top: 10px;
+    padding: 20px;
+    text-align: left;    
+    display:inline-block;
+}
+
+.three{
+    height: 100%;
+    width: 100%;
+    background-color: cornflowerblue;
+    margin-top: 25px;
+
+}
+
+.four{
+    background-color: darkgoldenrod;
+    width: 25%;
+    height: auto;
+    margin-top:10px;
+    padding: 15px;
+    display:inline-block;
+
+}
+.p{
+    background-color:firebrick;
+}
+.a{
+    margin-top: 10px;
+    background-color: aqua;
+    width:100%;
+    float:right;
+    display: inline-block;
+}
+.top{
+    margin: 10px;
+}
+.bottom{
+    margin:10px;
+}
+.img{
+    width:70%;
+    height:70%;
+    display:inline-block;
+    float:right;
+}
+.right{
+    float:right;
+    padding-right: 10%;
+}
+.left{
+    padding-left:10%;
+    margin-top:5%;
+}
